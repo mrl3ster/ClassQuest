@@ -1,0 +1,16 @@
+name,gold,xp,hp,level,cards,avatar_url,password_hash,equipped_cards
+Adam,0,0,100,1,[],"<svg viewBox=""0 0 100 100"" xmlns=""http://www.w3.org/2000/svg"">
+        <circle cx=""50"" cy=""50"" r=""45"" fill=""#0a0f2c"" stroke=""#00ff9f"" stroke-width=""2""/>
+        <path d=""M50 20 L30 70 L70 70 Z"" fill=""none"" stroke=""#00ff9f"" stroke-width=""2""/>
+        <circle cx=""50"" cy=""45"" r=""10"" fill=""#00ff9f""/>
+    </svg>",,[]
+Alex,0,0,100,1,[],"<svg viewBox=""0 0 100 100"" xmlns=""http://www.w3.org/2000/svg"">
+        <circle cx=""50"" cy=""50"" r=""45"" fill=""#0a0f2c"" stroke=""#00ff9f"" stroke-width=""2""/>
+        <path d=""M50 20 L30 70 L70 70 Z"" fill=""none"" stroke=""#00ff9f"" stroke-width=""2""/>
+        <circle cx=""50"" cy=""45"" r=""10"" fill=""#00ff9f""/>
+    </svg>",db74c940d447e877d119df613edd2700c4a84cd1cf08beb7cbc319bcfaeab97a,[]
+111,120,0,100,1,"[""20"", ""20"", ""23"", ""14"", ""15"", ""22"", ""20"", ""17""]","<svg viewBox=""0 0 100 100"" xmlns=""http://www.w3.org/2000/svg"">
+        <circle cx=""50"" cy=""50"" r=""45"" fill=""#0a0f2c"" stroke=""#00ff9f"" stroke-width=""2""/>
+        <path d=""M50 20 L30 70 L70 70 Z"" fill=""none"" stroke=""#00ff9f"" stroke-width=""2""/>
+        <circle cx=""50"" cy=""45"" r=""10"" fill=""#00ff9f""/>
+    </svg>",f6e0a1e2ac41945a9aa7ff8a8aaa0cebc12a3bcc981a929ad5cf810a090e11ae,[]
